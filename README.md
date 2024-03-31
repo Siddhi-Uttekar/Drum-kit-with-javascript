@@ -1,2 +1,2 @@
 # Drum-kit-with-javascript
-![](./Drum-kit-with-javascript/images/Screenshot.png)
+![](https://github.com/Siddhi-Uttekar/Drum-kit-with-javascript/blob/main/images/Screenshot%20.png)
